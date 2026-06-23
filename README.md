@@ -30,7 +30,7 @@ Follow these steps to set up the project on your local machine.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+git clone https://github.com/rajarshi265/INVESTMENT-THESIS-GENERATOR.git
 ```
 
 ### 2. Install dependencies
